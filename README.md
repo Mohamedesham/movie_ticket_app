@@ -1,16 +1,45 @@
-# movie_ticket
+🎬 Movie Ticket App – Flutter
 
-A new Flutter project.
+A modern and visually engaging Flutter application for browsing movies, viewing details, and booking cinema seats using an interactive seat-selection system.
+The app follows Clean Architecture, uses BLoC for state management, and fetches all movie data from TMDB API.
 
-## Getting Started
+🚀 Features
+🎥 Movie Browsing
 
-This project is a starting point for a Flutter application.
+Trending, Popular, Top-Rated movies
 
-A few resources to get you started if this is your first Flutter project:
+Search movies in real-time
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Detailed movie pages (rating, genres, runtime, overview)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🎟️ Ticket Booking Flow
+
+Select showtime
+
+Interactive Seat Selection screen
+
+Seat status mapping (Available / Selected / Reserved)
+
+Auto-generated ticket screen after booking
+
+🧱 Clean Architecture Layers
+
+Presentation: UI + BLoC
+
+Domain: Entities + Use Cases
+
+Data: Dio API service + Models + Repository implementation
+
+🧩 Tech Stack
+
+Flutter 3.x
+
+Dart
+
+Dio
+
+BLoC
+
+TMDB API
+
+Custom Widgets & Responsive Layouts
