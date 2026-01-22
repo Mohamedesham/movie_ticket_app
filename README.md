@@ -1,7 +1,7 @@
 🎬 Movie Ticket App – Flutter
 
 A modern and visually engaging Flutter application for browsing movies, viewing details, and booking cinema seats using an interactive seat-selection system.
-The app follows Clean Architecture, uses BLoC for state management, and fetches all movie data from TMDB API.
+The app follows Clean Architecture, uses BLoC for state management, and fetches all movie data from TMDB API
 
 🚀 Features
 🎥 Movie Browsing
