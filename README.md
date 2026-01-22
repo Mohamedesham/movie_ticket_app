@@ -22,7 +22,3 @@ The app follows **Clean Architecture**, uses **BLoC** for state management, and 
 - **Presentation:** UI + BLoC  
 - **Domain:** Entities + Use Cases  
 - **Data:** Dio API service + Models + Repository
-
----
-
-## 📂 Project Structure
